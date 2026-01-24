@@ -1,5 +1,5 @@
 # 📅 2026-01-23 공부 기록
-# 주제: OverTheWire Bandit (Level 11 → 12)
+# 주제: OverTheWire Bandit (Level 11 → 12) 
 
 ---
 
